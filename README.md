@@ -1,2 +1,3 @@
 # sekhar
-git learning
+git command
+git commit
